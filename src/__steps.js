@@ -12,6 +12,8 @@
  * create auth context
  * set AuthContext.Provider
  * make sure use children
- * 
+ *export auth  to be used inside useCOntext hook./
+ *get form data
+ getAuth in the user context
 
  */
