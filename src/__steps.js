@@ -15,5 +15,15 @@
  *export auth  to be used inside useCOntext hook./
  *get form data
  getAuth in the user context
+  ****************Firebase Hosting **********************
+  //on first time for each computer
+  1.npm install -g firebase-tools
+  2.firebase login
+  3.firebase init
+  make sure for public directory select build
 
+
+  for every deploy 
+  npm run build
+  firebase deploy
  */
